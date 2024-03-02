@@ -1,0 +1,25 @@
+site_name: Dock 'N' Score
+
+nav:
+  - Home: index.md
+  - Installation Guide: installation.md
+  - Dependencies: dependencies.md
+  - Usage Guide: usage.md
+
+theme:
+  name: material
+  palette:
+    primary: "teal"
+    accent: "deep_orange"
+  font:
+    text: "Roboto"
+  features:
+    - search
+    - navigation.tabs
+    - navigation.expandable
+  dark_mode: true
+  custom_dir: "assets"
+  show_powered_by: false
+  nav:
+    - Email: geraldduah1@gmail.com
+    - GitHub: https://github.com/Golhun
